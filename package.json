@@ -1,0 +1,27 @@
+{
+  "name": "getipfscid",
+  "version": "1.0.0",
+  "description": "upload any file into ipfs easily",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjay-sol/npmpkg_getIPFScid.git"
+  },
+  "keywords": [
+    "ipfs",
+    "web3Storage"
+  ],
+  "author": "sanjay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjay-sol/npmpkg_getIPFScid/issues"
+  },
+  "homepage": "https://github.com/sanjay-sol/npmpkg_getIPFScid#readme",
+  "dependencies": {
+    "web3.storage": "^4.5.5"
+  }
+}
