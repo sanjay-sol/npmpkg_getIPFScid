@@ -37,5 +37,5 @@ async function main() {
 ## More Documentation
 
  [web3storage](https://web3.storage/) 
- [ipfs] (https://ipfs.tech/) 
+
 
